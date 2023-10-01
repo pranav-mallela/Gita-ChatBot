@@ -44,6 +44,7 @@ Open your web browser and go to `http://localhost:8080`. You should now be able 
 2. The ChatBot will respond with guidance based on the teachings of the Bhagvad Gita.
 
 Or try it on Colab: https://colab.research.google.com/drive/1KkwwH3ZOXAP6JIqDLqF63p4uyXIyTfGG?usp=sharing
+Fine-tuned Colab version using Gradient AI: https://colab.research.google.com/drive/1Q-eYq70wLkP6s-GshhI96ZapewsH8B9P?usp=sharing
 
 
 ## Feedback and Contributions
