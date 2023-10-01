@@ -31,6 +31,8 @@ def interface():
             full_response = ""
             # Response logic
             assistant_response = get_gita_response(prompt)
+        if assistant_response is None:
+            assistant_response = "Sorry, I don't understand that. Please try again."
         # Simulate stream of response with milliseconds delay
         for chunk in assistant_response.split():
             full_response += chunk + " "
