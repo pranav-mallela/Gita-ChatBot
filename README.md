@@ -2,7 +2,7 @@
 
 Gita ChatBot is an LLM chatbot that leverages Llama 2 to provide spiritual advice based on the teachings of the Bhagvad Gita. 
 
-Quick try here! (no frontend): https://colab.research.google.com/drive/1KkwwH3ZOXAP6JIqDLqF63p4uyXIyTfGG?usp=sharing
+Quick try here! (Colab): https://colab.research.google.com/drive/1KkwwH3ZOXAP6JIqDLqF63p4uyXIyTfGG?usp=sharing
 
 ## Features
 
